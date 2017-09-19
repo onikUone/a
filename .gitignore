@@ -1,0 +1,7 @@
+# このファイルに記述されたファイルはGitによって管理されない
+# Below are the files you don't want to manage.
+
+# 試行用ディレクトリ
+# Directory to try
+/TEST
+
